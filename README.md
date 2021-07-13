@@ -1,24 +1,2 @@
-```javascript
-                     _ooOoo_
-                    o8888888o
-                    88" . "88
-                    (| -_- |)
-                     O\ = /O
-                 ____/`---'\____
-               .   ' \\| |// `.
-                / \\||| : |||// \
-              / _||||| -:- |||||- \
-                | | \\\ - /// | |
-              | \_| ''\---/'' | |
-               \ .-\__ `-` ___/-. /
-            ___`. .' /--.--\ `. . __
-         ."" '< `.___\_<|>_/___.' >'"".
-        | | : `- \`.;`\ _ /`;.`/ - ` : | |
-          \ \ `-. \_ __\ /__ _/ .-` / /
-  ======`-.____`-.___\_____/___.-`____.-'======
-                     `=---='
- 
-  .............................................
-           佛祖保佑             永无BUG
-
-```
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Asarua)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asarua&layout=compact)
